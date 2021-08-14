@@ -5,14 +5,14 @@ I'm Amr, a passionate mobile developer focusing on Flutter.
 </br>
 
 - 🔭 Currenlty working with [MTC](http://www.mtc.edu.eg/mtcwebsite/) to provide an innovative solutions to improve the educational process.
--  Previously at [Verycreatives](https://verycreatives.com), a Digital Product Agency located in Hungary.
-- 💙 Flutter Egypt Community Oganizer. https://www.facebook.com/groups/FlutterEgypt
+- 🚧 Previously at [Verycreatives](https://verycreatives.com), a Digital Product Agency located in Hungary.
+- 💙 Flutter Egypt Community Oganizer. [FlutterEgypt](https://www.facebook.com/groups/FlutterEgypt)
 - 🌐 Google Developer Nanodegree Scholar - [Certificate](https://confirm.udacity.com/UGLKCHZN) - [Capstone Project](https://github.com/amrahmed242/Quote)
 
 - 📫 Reach me at:
-     - https://www.linkedin.com/in/amrahmed24/
-     - https://twitter.com/Amrahme24089385
-     - https://www.youtube.com/channel/UCt4jhYKSHn-X0k8ETl6uQIA
+     - [linkedin](https://www.linkedin.com/in/amrahmed24)
+     - [twitter](https://twitter.com/Amrahme24089385)
+     - [youtube](https://www.youtube.com/channel/UCt4jhYKSHn-X0k8ETl6uQIA)
 
 
 <!--
