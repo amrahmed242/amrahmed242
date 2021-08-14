@@ -1,7 +1,24 @@
-### Hi there 👋
+### Hi there 🍉👋
+
+I'm Amr, a passionate mobile developer focusing on Flutter.
+</br>
+</br>
+
+- 🔭 Currenlty working with [MTC](http://www.mtc.edu.eg/mtcwebsite/) to provide an innovative solutions to improve the educational process.
+-  Previously at [Verycreatives](https://verycreatives.com), a Digital Product Agency located in Hungary.
+- 💙 Flutter Egypt Community Oganizer. https://www.facebook.com/groups/FlutterEgypt
+- 🌐 Google Developer Nanodegree Scholar - [Certificate](https://confirm.udacity.com/UGLKCHZN) - [Capstone Project](https://github.com/amrahmed242/Quote)
+
+- 📫 Reach me at:
+     - https://www.linkedin.com/in/amrahmed24/
+     - https://twitter.com/Amrahme24089385
+     - https://www.youtube.com/channel/UCt4jhYKSHn-X0k8ETl6uQIA
+
 
 <!--
 **amrahmed242/amrahmed242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+TODO add [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=amrahmed242)](https://github.com/amrahmed242/)
 
 Here are some ideas to get you started:
 
