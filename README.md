@@ -7,7 +7,7 @@ I'm Amr, a passionate mobile developer focusing on Flutter.
 - 🔭 Currently working with [MTC](http://www.mtc.edu.eg/mtcwebsite/) to provide an innovative solutions to improve the educational process.
 - 🚧 Previously at [Verycreatives](https://verycreatives.com), a Digital Product Agency located in Hungary.
 - 🎙  Public speaker at google developer group.
-- 💙 Flutter Egypt Community Oganizer. [FlutterEgypt](https://www.facebook.com/groups/FlutterEgypt)
+- 💙 Flutter Egypt Community Organizer. [FlutterEgypt](https://www.facebook.com/groups/FlutterEgypt)
 - 🌐 Google Developer Nanodegree Scholar - [Certificate](https://confirm.udacity.com/UGLKCHZN) - [Capstone Project](https://github.com/amrahmed242/Quote)
 
 - 📫 Reach me at:
