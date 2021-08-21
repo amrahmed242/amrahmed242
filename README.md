@@ -15,11 +15,11 @@ I'm Amr, a passionate mobile developer focusing on Flutter.
      - [twitter](https://twitter.com/Amrahme24089385)
      - [youtube](https://www.youtube.com/channel/UCt4jhYKSHn-X0k8ETl6uQIA)
 
-
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=amrahmed242)](https://github.com/amrahmed242/)
 <!--
 **amrahmed242/amrahmed242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-TODO add [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=amrahmed242)](https://github.com/amrahmed242/)
+TODO add 
 
 Here are some ideas to get you started:
 
