@@ -1,4 +1,4 @@
-### Hi there 🍉👋
+### Hi there 👋
 
 I'm Amr, a mobile developer focusing on Flutter.
 </br>
