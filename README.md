@@ -1,10 +1,10 @@
 ### Hi there 🍉👋
 
-I'm Amr, a passionate mobile developer focusing on Flutter.
+I'm Amr, a mobile developer focusing on Flutter.
 </br>
 </br>
 
-- 🔭 Currently working with [MTC](http://www.mtc.edu.eg/mtcwebsite/) to provide an innovative solutions to improve the educational process.
+- 🔭 Currently working with [MTC](http://www.mtc.edu.eg/mtcwebsite/) to provide solutions that improve the educational process.
 - 🚧 Previously at [Verycreatives](https://verycreatives.com), a Digital Product Agency located in Hungary.
 - 🎙  Public speaker at google developer group.
 - 💙 Flutter Egypt Community Organizer. [FlutterEgypt](https://www.facebook.com/groups/FlutterEgypt)
