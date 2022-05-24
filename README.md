@@ -4,7 +4,7 @@ I'm Amr, a mobile developer focusing on Flutter.
 </br>
 </br>
 
-- 🔭 Currently working with [Educatly](https://www.educatly.com/) on making education opportunities easier to access for all people around the world.
+- 🔭 Currently working with [IMPARGO](https://impargo.de/en) building logistics software for transportation companies and shippers.
 - 🚧 Previously at [Verycreatives](https://verycreatives.com), a Digital Product Agency located in Hungary.
 - 🎙  Public speaker at google developer group.
 - 💙 Flutter Egypt Community Organizer. [FlutterEgypt](https://www.facebook.com/groups/FlutterEgypt)
