@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Amr, a mobile developer focusing on Flutter.
+I'm Amr, a software engineer focusing on Flutter <img src="https://github.com/amrahmed242/amrahmed242/assets/31352179/8327302a-3c54-4b09-803d-6291a0dd818b" width="40" height="40">.
 </br>
 </br>
 
@@ -16,6 +16,7 @@ I'm Amr, a mobile developer focusing on Flutter.
      - [youtube](https://www.youtube.com/channel/UCt4jhYKSHn-X0k8ETl6uQIA)
 
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=amrahmed242)](https://github.com/amrahmed242/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahmed242&" alt="amrahmed242" /></p>
 <!--
 **amrahmed242/amrahmed242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
