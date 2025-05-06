@@ -13,11 +13,9 @@ I'm Amr, a software engineer focusing on Flutter <img src="https://github.com/am
 - 📫 Reach me at:
      - [linkedin](https://www.linkedin.com/in/amrahmed24)
      - [twitter](https://twitter.com/Amrahme24089385)
-     - [youtube](https://www.youtube.com/channel/UCt4jhYKSHn-X0k8ETl6uQIA)
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=amrahmed242)](https://github.com/amrahmed242/)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahmed242&" alt="amrahmed242" /></p>
 <!--
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahmed242" alt="amrahmed242" />
 **amrahmed242/amrahmed242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 TODO add 
